@@ -423,3 +423,4 @@ composer.phar
 *.png
 *.class/train.bin
 *.class/test.bin
+*..DS_Store
